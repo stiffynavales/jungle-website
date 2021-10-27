@@ -147,14 +147,7 @@ section{
     transform: scale(1.5);
 }
 
-label{
-    display: none;
-}
 
-#check{
-    z-index: 3;
-    display: none;
-}
 
 /* Responsive */
 
